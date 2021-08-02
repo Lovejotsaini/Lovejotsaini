@@ -18,7 +18,7 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="mailto:lovejot.saini1711@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lovejot.saini1711%40gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="mailto:lovejot.tech@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lovejot.tech%40gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
 ### Languages and Tools:
