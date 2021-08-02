@@ -19,7 +19,7 @@
 
 <p align="center">
 <a href="mailto:lovejot.tech@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lovejot.tech%40gmail.com-blue?style=flat&logo=gmail"></a>
- <a href="www.linkedin.com/in/lovejot-singh-b9997b218"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Lovejot%20Singh-blue?style=flat&logo=linkedin"></a>
+ <a href="www.linkedin.com/in/lovejot-singh-b9997b218"><img alt="LinkedIn" src="https://www.linkedin.com/in/lovejot-singh-b9997b218/"></a>
 
 </p>
 
